@@ -102,10 +102,11 @@
     },
     {
       "name": "Larry",
-      "species": "lemur",
+      "species": "Lemur",
       "diet": "omnivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "loving"
       ],
       "id": "10"
     }
